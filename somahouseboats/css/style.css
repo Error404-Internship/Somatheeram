@@ -1213,6 +1213,7 @@ button {
 .main_description {
     font-size: 1.1em;
     line-height: 1.6;
+    text-align: justify;
 }
 
 .main_description.a_center {
