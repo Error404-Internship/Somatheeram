@@ -1901,9 +1901,11 @@ button {
 header {
     width: 100%;
     background: #fff;
-    border-bottom: 1px solid #e6eff2;
+    border-bottom: 1px solid #ffffff;
     z-index: 9999;
+    border-bottom-width: 40px;
 }
+
 
 .mfp-zoom-out-cur header {
     padding-right: 17px;
